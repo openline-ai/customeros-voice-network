@@ -1,0 +1,1 @@
+In case of VPC recreation, also follow the [README](../event-store-db/README.md) of the event-store-db 
