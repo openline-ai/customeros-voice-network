@@ -7,7 +7,6 @@ require (
 	github.com/aws/aws-sdk-go v1.44.322
 	github.com/ghettovoice/gosip v0.0.0-20230130140202-1060e22fde79
 	github.com/google/uuid v1.3.0
-	github.com/h2non/filetype v1.1.3
 	github.com/pion/rtp v1.7.13
 	github.com/stretchr/testify v1.8.4
 	gopkg.in/ini.v1 v1.67.0
@@ -36,10 +35,10 @@ require (
 	github.com/stretchr/objx v0.5.0 // indirect
 	github.com/tevino/abool v0.0.0-20170917061928-9b9efcf221b5 // indirect
 	github.com/x-cray/logrus-prefixed-formatter v0.5.2 // indirect
-	golang.org/x/crypto v0.10.0 // indirect
-	golang.org/x/net v0.11.0 // indirect
-	golang.org/x/sys v0.9.0 // indirect
-	golang.org/x/term v0.9.0 // indirect
+	golang.org/x/crypto v0.14.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/sys v0.13.0 // indirect
+	golang.org/x/term v0.13.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
